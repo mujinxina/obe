@@ -1,0 +1,122 @@
+body{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.yy-one1{
+    background: #ffffff;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.yy-one1 .yy-bg{
+   position: absolute;
+   top: 0;
+   left: 0;
+   z-index: 1;
+   width: 100%;
+}
+.yy-one1 .yy-bg img{
+    width: 100%;
+}
+.yy-one1 .yy-circle{
+    width: 6.48rem;
+    height: 4.16rem;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+    left: 0;
+   
+}
+.yy-one1 .yy-circle img{
+    width: 6.48rem;
+    height: 4.16rem;
+}
+
+.yy-one1 .pos{
+    width: 100%;
+    position: absolute;
+}
+.yy-one1 .pos.content1{
+    width: 6.0rem;
+    height: 7rem;
+    top: 50%;
+    left: 0.75rem;
+    z-index: 5;
+    transform: translateY(-50%);
+}
+.yy-one1 .pos.bottom1{
+    width: 6.0rem;
+    height: 4rem;
+    bottom: 0;
+    left: 0;
+}
+.yy-one1 .pos .yy-titles{
+    width: 6.0rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.yy-one1 .pos .yy-titles img{
+    width: 6.0rem;
+}
+.yy-one1 .pos .yy-authentication{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 5.08rem;
+    z-index: 5;
+}
+.yy-one1 .pos .yy-authentication img{
+    width: 3.48rem;
+}
+.yy-one1 .pos .yy-major{
+    width: 6.0rem;
+    position: absolute;
+    left: 0;
+    top: 6rem;
+    z-index: 4;
+}
+.yy-one1 .pos .yy-major img{
+    width: 6rem;
+}
+
+.yy-one1 .pos .yy-bottom{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+}
+.yy-one1 .pos .yy-bottom img{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.yy-one1 .pos .yy-content{
+    width: 2.53rem;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 3;
+}
+.yy-one1 .pos .yy-content img{
+    width: 2.53rem;
+    position: absolute;
+    left: 0.75rem;
+    bottom: 1.22rem;
+}
+.yy-one1 .pos .yy-sxuek{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: 3;
+    width: 2.24rem;
+}
+.yy-one1 .pos .yy-sxuek img{
+    width: 2.24rem;
+    position: absolute;
+    left: 4.45rem;
+    bottom: 1.24rem;
+}
+

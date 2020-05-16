@@ -1,0 +1,58 @@
+.yy-fourteen1{
+    padding: 1rem 0.55rem 0.7rem 0.55rem;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.yy-fourteen1 .yy-phone{
+    padding: 2.2rem 0.2rem 0.4rem 0.2rem;
+    font-size: 0.65rem;
+    line-height: 0.65rem;
+    color: #00364d;
+    text-align: center;
+    font-weight: 500;
+} 
+.yy-fourteen1 .yy-name{
+    padding: 0 0.2rem 0.9rem 0.2rem;
+    width: 3.95rem;
+    margin: 0 auto;
+}
+.yy-fourteen1 .yy-name img{
+    width: 100%;
+}
+.yy-fourteen1 .yy-qrcode{
+    padding: 0 0.2rem 1.15rem 0.2rem;
+    display: flex;
+    justify-content: space-around;
+}
+.yy-fourteen1 .yy-qrcode .yy-list{
+    width: 2.6rem;
+}
+.yy-fourteen1 .yy-qrcode .yy-list div{
+    width: 1.93rem;
+    margin: 0 auto;
+}
+.yy-fourteen1 .yy-qrcode .yy-list div img{
+    width: 1.93rem;
+    margin: 0 auto;
+}
+.yy-fourteen1 .yy-qrcode .yy-list h6{
+    font-size: 0.22rem;
+    font-weight: 500;
+    color: #a4a3a3;
+    margin-top: 0.3rem;
+    text-align: center;
+}
+.yy-fourteen1 .yy-words{
+    width: 100%;
+    padding: 0 0.2rem 0 0.2rem;
+}
+.yy-fourteen1 .yy-words li{
+    margin-bottom: 0.4rem;
+}
+.yy-fourteen1 .yy-words li p{
+    text-align: center;
+    font-size: 0.22rem;
+    line-height: 0.33rem;
+    color: #abaaaa;
+}

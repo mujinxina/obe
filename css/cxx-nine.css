@@ -1,0 +1,69 @@
+.cxx-nine{
+    width: 80%;
+    margin: auto;
+    padding-bottom: 0.84rem;
+
+}
+.cxx-nine .title{
+    position: relative;
+    top: 1rem;
+    left: 0;
+}
+.cxx-nine .title h3{
+    font-size: 0.24rem;
+    font-weight: 800;
+}
+.cxx-nine .title .title-two{
+    font-size: 0.2rem;
+    color: #cfcfcf;
+}
+.cxx-nine .cxx-coreFuntions{
+    width: 100%;
+    height: 1.58rem;
+    position: relative;
+    top: 1rem;
+    left: 0;
+    border-bottom: 0.02rem solid #f0ebeb;
+    box-sizing: border-box;
+    margin-top: 0.2rem;
+
+}
+.cxx-coreFuntions .circle img{
+    width: 0.34rem;
+    height: 0.34rem;
+    float: left;
+}
+.cxx-coreFuntions h3{
+    font-size: 0.26rem;
+    color:#3697d3 ;
+    font-weight: 600;
+}
+.cxx-coreFuntions .content{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.cxx-coreFuntions .content .content-question{
+    width: 50%;
+    height: auto;
+    float: left;
+    font-size: 0.24rem;
+    margin-top: 0.2rem;
+    display: flex;
+    align-items: center;
+}
+.cxx-coreFuntions .content .content-question img{
+    width: 0.25rem;
+    height: 0.07rem;
+
+}
+.cxx-function{
+    width: 100%;
+    height: 1.20rem;
+    position: relative;
+    top: 1.3rem;
+}
+.cxx-function img{
+    width: 2.93rem;
+    height: 1.41rem;
+}

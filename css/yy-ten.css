@@ -1,0 +1,80 @@
+.yy-ten1{
+    padding: 1rem 0.55rem 0.7rem 0.55rem;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.yy-ten1 .yy-head{
+    padding: 0rem 0.2rem;
+    width: 6.4rem;
+}
+.yy-ten1 .yy-head img{
+ width: 6rem;
+}
+.yy-ten1 .yy-title{
+    padding: 0.5rem 0.2rem 0.15rem 0.2rem;
+    width: 100%;
+    height: 0.45rem;
+    position: relative;
+}
+.yy-ten1 .yy-title img{
+ height: 0.45rem;
+}
+.yy-ten1 .yy-title span{
+    display: inline-block;
+    height: 0.45rem;
+    font-size: 0.3rem;
+    color: #595959;
+    font-weight: 700;
+    margin-left: 0.2rem;
+    position: absolute;
+    top: 0.5rem;
+}
+.yy-ten1 .yy-list{
+   padding: 0.4rem 0.2rem 0 0.2rem;
+   width: 100%; 
+}
+.yy-ten1 .yy-list .title1{
+    width: 2.54rem;
+    height: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #0097e0;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-weight: 500;
+    color: #fff;
+}
+.yy-ten1 .yy-list p{
+    width: 100%;
+    font-size: 0.24rem;
+    line-height: 0.35rem;
+    color: #8a8989;
+    font-weight: 500;
+    margin-left: 0.4rem;
+}
+.yy-ten1 .yy-list .yy-p1{
+    margin-top: 0.3rem;
+}
+.yy-ten1 .yy-list .title2{
+    width: 2.54rem;
+    height: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #55b877;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-weight: 500;
+    color: #fff;
+}
+.yy-ten1 .yy-list .title3{
+    width: 2.54rem;
+    height: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #f7cb56;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-weight: 500;
+    color: #fff;
+}

@@ -1,0 +1,52 @@
+.cxx-thirteen{
+    width: 80%;
+    padding-bottom: 0.84rem;
+    margin: auto;
+}
+.cxx-thirteen .title{
+    width: 100%;
+    height: 1.8rem;
+    position: relative;
+    top:1rem;
+    left: 0;
+}
+.cxx-thirteen .title img{
+    width: 100%;
+    height: 1.8rem;
+}
+.cxx-thirteen .login{
+    width: 80%;
+    margin: auto;
+    position: relative;
+    top: 1.3rem;
+
+}
+.cxx-thirteen .login .message{
+    width: 100%;
+    margin-top: 0.2rem;
+}
+.cxx-thirteen .login .message h3{
+    font-size: 0.38rem;
+    color: #595757;
+    font-weight: bolder;
+}
+.cxx-thirteen .login .message input,button{
+    width: 100%;
+    height: 0.7rem;
+    padding-left:0.2rem;
+    background-color: #e6f6fd;
+    border-style: none;
+    border-radius: 0.1rem;
+    margin-top: 0.1rem;
+    outline: none;
+}
+::-webkit-input-placeholder{
+    font-size: 0.24rem;
+}
+
+.cxx-thirteen .login button{
+    margin-top: 0.8rem;
+    border-radius: 0.5rem;
+    background-color: #0ea3eb;
+    color: #ffffff;
+}

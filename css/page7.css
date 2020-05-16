@@ -1,0 +1,194 @@
+.lxj-page7{
+    width: 100%;
+    height: 100%;
+    padding: 0.95rem 0.55rem 0.84rem 0.55rem;
+    box-sizing: border-box;
+}
+.lxj-head{
+    height: 2.13rem;
+    padding: 0 0.25rem 0.05rem 0.25rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+.lxj-head>div{
+    width: 5.9rem;
+    height: 100%;
+    background: url(../image/7/product.png);
+    background-size: 100% 100%;
+}
+.lxj-introduces{
+    box-sizing: border-box;
+    width: 100%;
+    height: 9.42rem;
+    padding: 0 0.25rem;
+}
+.lxj-introduce{
+    width: 5.9rem;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.lxj-left-introduce{
+    float: left;
+    width: 4.64rem;
+    height: 100%;
+}
+.lxj-right-introduce{
+    float: right;
+    width: 1.01rem;
+    height: 100%;
+}
+.lxj-job{
+    width: 100%;
+    height: 0.48rem;
+}
+.lxj-job img{
+    width: 100%;
+}
+.lxj-down{
+    width: 100%;
+    height: 0.2rem;
+    position: relative;
+}
+.lxj-down img{
+    height: 100%;
+    display: inline-block;
+    transform: rotate(180deg) translateY(-0.15rem);
+    position: absolute;
+    left: 2.3rem;
+    top: -0.12rem;
+}
+.lxj-module{
+    width: 100%;
+    height: 2rem;
+    background-color: #eaf6fd;
+}
+.lxj-module .lxj-left-module{
+    width: 2rem;
+    height: 100%;
+    padding: 0 0.16rem;
+    float: left;
+}
+.lxj-module .lxj-left-module img{
+    width: 1.8rem;
+    padding-top: 0.1rem;
+}
+.lxj-module .lxj-right-module{
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+.lxj-module .lxj-right-module ul{
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    padding-top:0.2rem;
+    padding-bottom: 0.05rem;
+    padding-left: 0.32rem;
+}
+.lxj-module .lxj-right-module ul li{
+    list-style: disc;
+    width: 100%;
+    height: 0.4rem;
+    line-height: 0.4rem;
+    color: #8cca65;
+}
+.lxj-module .lxj-right-module ul li span{
+    color: #000;
+    font-size: 0.22rem;
+}
+.lxj-module2{
+    width: 100%;
+    background-color: #fff;
+    height: 1.46rem;
+}
+.lxj-module2 .lxj-left-module{
+    box-sizing: border-box;
+    height: 1.46rem;
+    padding: 0rem 0.3rem 0.1rem 0.44rem;
+}
+.lxj-module2 .lxj-left-module img{
+    width: 1.2rem;
+    height: 1.3rem;
+    height: 100%;
+}
+.lxj-module2 .lxj-right-module ul{
+    padding-top:0rem;
+}
+.lxj-module2 .lxj-right-module ul li{
+    height: 0.38rem;
+}
+.lxj-module3 .lxj-left-module img{
+    width: 1.2rem;
+    padding-top: 0.1rem;
+}
+.lxj-module3 .lxj-left-module{
+    box-sizing: border-box;
+    padding: 0.25rem 0.3rem 0.15rem 0.4rem;
+}
+.lxj-module4{
+    background-color: #fff;
+
+}
+.lxj-module4 .lxj-left-module{
+    padding-top: 0.2rem;
+    margin-left: -0.1rem;
+}
+
+.lxj-up{
+    width: 100%;
+    height: 0.2rem;
+    text-align: center;
+}
+.lxj-up img{
+    height: 0.19rem;
+}
+.lxj-job{
+    width: 100%;
+}
+.lxj-job img{
+    width: 100%;
+}
+.lxj-right-introduce{
+    background-color: #e5f4fc;
+}
+
+#lxj-content{
+    float: right;
+    height: 100%;
+    width: 0.5rem;
+    -webkit-writing-mode: vertical-rl;
+}
+#lxj-content{
+    color: #078dd1;
+    margin-right: 0.15rem;
+    margin-top: 0.03rem;
+}
+#lxj-content span:first-child{
+    margin: 0;
+}
+#lxj-content p.titles{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+#lxj-content span{
+    font-size: 0.22rem;
+}
+#lxj-content p:nth-child(2){
+    font-size: 0.26rem;
+    font-weight: bold;
+    text-align: center;
+    margin-right: 0.1rem;
+}
+.lxj-arrow-left{
+    width: 0.2rem;
+    height: 0.06rem;
+    position: absolute;
+    top:4rem;
+    left: 4.65rem;
+}
+.lxj-arrow-left img{
+    width: 100%;
+    height: 100%;
+}

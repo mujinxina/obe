@@ -1,0 +1,143 @@
+.yy-eleven1{
+    padding: 1rem 0.55rem 0.8rem 0.55rem;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+}
+.yy-eleven1 .yy-title{
+    padding: 0 0.2rem 0.15rem 0.2rem;
+    width: 100%;
+    height: 0.45rem;
+    position: relative;
+}
+.yy-eleven1 .yy-title img{
+ height: 0.45rem;
+}
+.yy-eleven1 .yy-title span{
+    width: 3rem;
+    line-height: 0.45rem;
+    font-size: 0.3rem;
+    color: #595959;
+    font-weight: 700;
+    margin-left: 0.2rem;
+    position: absolute;
+  
+}
+.yy-eleven1 .yy-list{
+    padding: 0.25rem 0.2rem 0 0.2rem;
+    width: 100%; 
+ }
+ .yy-eleven1 .yy-list .title1{
+     width: 2.54rem;
+     height: 0.5rem;
+     border-radius: 0.25rem;
+     background-color: #f5a83b;
+     font-size: 0.2rem;
+     text-align: center;
+     line-height: 0.5rem;
+     font-weight: 500;
+     color: #fff;
+ }
+ .yy-eleven1 .yy-list p{
+     width: 100%;
+     font-size: 0.24rem;
+     color: #8a8989;
+     font-weight: 500;
+     margin-left: 0.4rem;
+     word-wrap: break-word;
+ }
+ .yy-eleven1 .yy-list .yy-p1{
+    margin-top: 0.2rem;
+ }
+
+ .yy-eleven1 .yy-list1{
+    padding: 0.2rem 0.2rem 0 0.2rem;
+    width: 100%; 
+ }
+ .yy-eleven1 .yy-list1 p{
+    width: 100%;
+    font-size: 0.22rem;
+    color: #8a8989;
+    font-weight: 500;
+    margin-left: 0.4rem;
+    word-wrap: break-word;
+}
+.yy-eleven1 .yy-list1 .yy-p1{
+    margin-top: 0.2rem;
+ }
+ .yy-eleven1 .yy-list1 .title2{
+    width: 2.54rem;
+    height: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #ed7067;
+    font-size: 0.2rem;
+    line-height: 0.5rem;
+    text-align: center;
+    font-weight: 500;
+    color: #fff;
+}
+
+.yy-eleven1 .yy-list2{
+    padding: 0.15rem 0.2rem 0 0.2rem;
+    width: 100%; 
+ }
+ .yy-eleven1 .yy-list2 p{
+     width: 100%;
+     font-size: 0.24rem;
+     color: #8a8989;
+     font-weight: 500;
+     margin-left: 0.4rem;
+     word-wrap: break-word;
+     margin-top: 0.2rem;
+ }
+ .yy-eleven1 .yy-list2 .title3{
+    width: 2.54rem;
+    height: 0.5rem;
+    border-radius: 0.25rem;
+    background-color: #b390c1;
+    font-size: 0.2rem;
+    text-align: center;
+    line-height: 0.5rem;
+    font-weight: 500;
+    color: #fff;
+}
+.yy-eleven1 .yy-title1{
+    padding: 0 0.2rem 0.15rem 0.2rem;
+    width: 100%;
+    height: 0.45rem;
+    position: relative;
+    margin-top: 0.5rem;
+}
+.yy-eleven1 .yy-title1 img{
+ height: 0.45rem;
+}
+.yy-eleven1 .yy-title1 span{
+    width: 3rem;
+    line-height: 0.45rem;
+    font-size: 0.3rem;
+    color: #595959;
+    font-weight: 700;
+    margin-left: 0.2rem;
+    position: absolute;
+  
+}
+.yy-eleven1 .yy-title2{
+    padding: 0 0.2rem 0.15rem 0.2rem;
+    width: 100%;
+    height: 0.45rem;
+    position: relative;
+    margin-top: 0.5rem;
+}
+.yy-eleven1 .yy-title2 img{
+ height: 0.45rem;
+}
+.yy-eleven1 .yy-title2 span{
+    width: 3rem;
+    line-height: 0.45rem;
+    font-size: 0.3rem;
+    color: #595959;
+    font-weight: 700;
+    margin-left: 0.2rem;
+    position: absolute;
+  
+}

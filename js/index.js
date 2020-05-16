@@ -16,7 +16,7 @@ window.addEventListener('load',function(){
         },
         lazy: {
             loadPrevNext: true,
-            loadPrevNextAmount: 2,
+            loadPrevNextAmount: 1,
         }
     })
 })
